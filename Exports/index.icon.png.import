@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bgqy2fxlju13w"
-path="res://.godot/imported/seal-ordeal.icon.png-bbea305e8e0cc2a21bdae38bc3036f50.ctex"
+uid="uid://buvksn2spqyar"
+path="res://.godot/imported/index.icon.png-0caff68861ee6ff2185c9032244ea593.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Exports/seal-ordeal.icon.png"
-dest_files=["res://.godot/imported/seal-ordeal.icon.png-bbea305e8e0cc2a21bdae38bc3036f50.ctex"]
+source_file="res://Exports/index.icon.png"
+dest_files=["res://.godot/imported/index.icon.png-0caff68861ee6ff2185c9032244ea593.ctex"]
 
 [params]
 
