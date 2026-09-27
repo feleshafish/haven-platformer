@@ -4,7 +4,7 @@ Hi! This is **Seal Ordeal**, an extremely simple platformer game created in Godo
 
 Inspired by my love for seals, you, a fellow harp seal, are looking for a tasty treat! You must embark on a short but lively trip across blocks of floating ice to attain this hearty meal.
 
-**How to Play:** WASD/Arrow Keys & Space Bar
+**Controls:** WASD/Arrow Keys & Space Bar
 
 NOTE: This is my first time using Godot
 
